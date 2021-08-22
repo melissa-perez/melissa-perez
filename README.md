@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissa-perez&count_private=true&theme=synthwave
+[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissa-perez&count_private=true&theme=synthwave&show_icons=true
 )](https://github.com/melissa-perez/github-readme-stats)
 
