@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... programming questions for a summer internship next year.
-- 🌱 I’m currently learning ... Git/Github, Unity, REST.
+- 🌱 I’m currently learning ... ##Git/Github, Unity, REST.##
 - 👯 I’m looking to collaborate on ... Pending.
 - 🤔 I’m looking for help with ... DSA always.
 - 💬 Ask me about ... anything!
