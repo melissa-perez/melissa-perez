@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... She/Her/They/Them
-- ⚡ Fun fact: ... I'm a gold rank across all roles on console Overwatch.
+- ⚡ Fun fact: ... I'm gold rank across all roles on console Overwatch.
 
 
 [![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissa-perez&count_private=true&theme=synthwave&show_icons=true
