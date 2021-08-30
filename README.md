@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melissa-perez" alt="melissa-perez" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Git, Unity**
+- 🌱 I’m currently learning **React, Git, Unity**
 
 - 📫 How to reach me **perezmelissa053@gmail.com**
 
