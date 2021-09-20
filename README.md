@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melissa-perez" alt="melissa-perez" /></a> </p>
 
-- 🌱 I’m currently learning **Interview Prep, React, Git, Unity**
+- 🌱 I’m currently learning **Interview Prep, React, Git**
 
 - 📫 How to reach me **perezmelissa053@gmail.com**
 
-- ⚡ Fun fact **I'm a gold console Overwatch player.**
+- ⚡ Fun fact **I'm a Plat support console Overwatch player.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
