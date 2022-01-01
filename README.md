@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melissa-perez" alt="melissa-perez" /></a> </p>
 
-- 🌱 I’m currently learning **interview burnout🤯**
+- 🌱 I’m currently learning **Svelte.js and Figma.**
 
-- 📫 How to reach me **perezmelissa053@gmail.com**
-
-- ⚡ Fun fact **I'm a Plat support console Overwatch player.**
+- ⚡ Fun fact **I'm currently playing Final Fantasy 7 Remake.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
