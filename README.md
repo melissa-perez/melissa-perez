@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **Svelte.js and Figma.**
 
-- ⚡ Fun fact **I'm currently playing Final Fantasy 7 Remake.**
+- ⚡ Fun fact **I'm currently playing nothing D:.**
