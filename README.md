@@ -1,2 +1,1 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melissa-perez&theme=oldie" alt="melissa-perez" /></a> </p>
-<a href="https://stackoverflow.com/users/7916443/literallyafk"><img src="https://stackoverflow.com/users/flair/7916443.png" width="208" height="58" alt="profile for literallyafk at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for literallyafk at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
